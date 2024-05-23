@@ -2,12 +2,12 @@
 ##### Level 5 Diploma Web Application development
 ---
 ## Introduction
-##### This outlines the scope of the Code Institute Milestone Project 1. 
+This outlines the scope of the Code Institute Milestone Project 1.
 ---
 ### User Centric Frontend Development Milestone Project
 
 Project purpose: Presentation of static data
-##### In this project, you’ll build a static front-end site to present useful information to users, using all the technologies that you have learned about so far.
+In this project, you’ll build a static front-end site to present useful information to users, using all the technologies that you have learned about so far.
 
 Value provided:
 1. Data is presented in a way that helps users achieve their goals, e.g. learning about a product/service that they are interested in.
