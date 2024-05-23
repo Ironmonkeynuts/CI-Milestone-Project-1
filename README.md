@@ -52,3 +52,10 @@ Tell about the legacy of tolkien's work and how it has impacted in popular cultu
 Showcase photos, audio and/or video clips of his work or other artists imspired by his work.
 
 Provide links to external resources, including the Tolkien Foundation, film franchises and other fan sites.
+
+
+### Changelog
+
+Added Bootstrap 5.3.3 link to head above/before the link to style.css thus allowing style.css to override styles inherrited in the bootstrap . Added bootstrap nav bar to header in html. This is to make navigation easier and the coding of navigation easier. This is also demonstrating that I have employed bootstrap code to assist development to fulfill criteria of the Milestone project assessment.
+
+Added styling to re-position logo and its accompanying text within navbar

@@ -1,0 +1,10 @@
+
+.navbar img {
+    height: 2rem; /* Limit size of logo image */
+    float: left; /* Float left of text */
+    margin-right: 5px; /* Add some gap between logo and text */
+}
+
+.navbar h4 {
+    float: right; /* Float right of logo */
+}
