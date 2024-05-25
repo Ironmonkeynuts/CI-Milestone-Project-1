@@ -42,3 +42,9 @@ content h4 {
     background: url(../Images/jrrtolkien.jpg) no-repeat center center;
     background-size: 100vw auto; /* Fill width of screen */
 }
+
+/* Quote */
+.quote {
+    width: 100%;
+    text-align: center;
+}
