@@ -20,8 +20,25 @@
     background-color: gold; /* To make a vibrant header and nav-bar */
 }
 
+content {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#tolkien {
+    text-align: center; /* Center main header */
+    font-size: 6em; 
+}
+
+content h4 {
+    text-align: center; /* Center sub header */
+}
+
+/* Background image of Tolkien on home page */
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url(../Images/jrrtolkien.jpg) no-repeat center center;
+    background-size: 100vw auto; /* Fill width of screen */
 }
